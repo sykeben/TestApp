@@ -1,0 +1,7 @@
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\bin\x86\Release\TestApp.exe.config
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\bin\x86\Release\TestApp.exe
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\obj\x86\Release\TestApp.MainWindow.resources
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\obj\x86\Release\TestApp.Resources.resources
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\obj\x86\Release\TestApp.vbproj.GenerateResource.cache
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\obj\x86\Release\TestApp.vbproj.CoreCompileInputs.cache
+C:\Users\Ben Sykes\source\repos\TestApp\TestApp\obj\x86\Release\TestApp.exe
